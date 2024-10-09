@@ -26,6 +26,6 @@ class Clientes:
             self.endereco = endereco
     
     def __str__(self):
-         return f"Nome: {self.nome} |  CPF: {self.cpf} | Idade: {self.idade} | E-mail: {self.email} | Telefone: {self.telefone} | Endereço: {self.endereco}"
-    
+         return f"Nome: {self.nome} | CPF: {self.cpf} | Idade: {self.idade} | E-mail: {self.email} | Telefone: {self.telefone} | Endereço: {self.endereco}"
+
         
