@@ -1,4 +1,4 @@
-# Cadastrando-Clientes
+# Gerenciador de Clientes
 
 Uma aplicação em Python para gerenciamento de clientes, permitindo adicionar, buscar, atualizar, deletar e listar clientes com informações como nome, CPF, idade, email, telefone e endereço.
 
